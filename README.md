@@ -11,7 +11,7 @@ Deploy automático
 git commit -m "comentario"
 '''
 
-## Acesse aqui
-[blog](https://etevaldo.netlify.com/)
+##Acesse aqui
+[blog] (https://etevaldo.netlify.com)
 
 ##README
