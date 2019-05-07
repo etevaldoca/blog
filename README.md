@@ -12,6 +12,6 @@ git commit -m "comentario"
 '''
 
 ## Acesse aqui
-[blog](https://etevaldo.netlify.com)
+[blog](https://etevaldo.netlify.com/)
 
 ##README
